@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\exp3">
+      <UniqueIdentifier>{09f888db-4594-4286-8775-5f5f91617b69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\exp4">
+      <UniqueIdentifier>{48d95868-67d4-4b05-a7bc-90cf36d0dd00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3">
+      <UniqueIdentifier>{86e8511d-ef49-4b02-848c-95e7072cfc18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4">
+      <UniqueIdentifier>{6322fbdb-7aa3-473d-92da-5261447b3585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4.2">
+      <UniqueIdentifier>{7c7b94b6-0949-433c-a522-c92145ad6be9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\exp4.2">
+      <UniqueIdentifier>{0eec61c5-3fec-4667-9a38-5c523c41d626}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3.1.cpp">
+      <Filter>Source Files\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.cpp">
+      <Filter>Source Files\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4mytriangle.cpp">
+      <Filter>Source Files\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.cpp">
+      <Filter>Source Files\3</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6.cpp">
+      <Filter>Source Files\4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.1.cpp">
+      <Filter>Source Files\4.2</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.2.h">
+      <Filter>Header Files\exp4.2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3.1.h">
+      <Filter>Header Files\exp3</Filter>
+    </ClInclude>
+    <ClInclude Include="3.2.h">
+      <Filter>Header Files\exp3</Filter>
+    </ClInclude>
+    <ClInclude Include="3.4mytriangle.h">
+      <Filter>Header Files\exp3</Filter>
+    </ClInclude>
+    <ClInclude Include="3.5.h">
+      <Filter>Header Files\exp3</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="4.1.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.2.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.3.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.4.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.5.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.6.h">
+      <Filter>Header Files\exp4</Filter>
+    </ClInclude>
+    <ClInclude Include="4.2.1.h">
+      <Filter>Header Files\exp4.2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="4.2.2.cpp">
+      <Filter>Source Files\4.2</Filter>
+    </None>
+  </ItemGroup>
+</Project>
